@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{JPsB:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),l=a.n(t),r=a("+ZDr"),c=a.n(r);n.default=function(){return l.a.createElement("div",null,l.a.createElement("h1",null,"Page 3"),l.a.createElement("p",null,"Here you are in the page 3."),l.a.createElement("br",null),l.a.createElement(c.a,{to:"/"},"Back Home"))}}}]);
+//# sourceMappingURL=component---src-pages-dir-page-3-js-f1971ac0ca01d773b5f8.js.map
